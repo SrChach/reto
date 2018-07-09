@@ -1,0 +1,1 @@
+Pàgina [MOSTRAR POR POST_ID] [TODOS los posts, seleccionables...]

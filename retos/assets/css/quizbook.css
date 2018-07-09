@@ -1,0 +1,14 @@
+
+
+.respuesta {
+	padding: 7px 20px;
+	border: 1px solid #e1e1e1;
+	margin-bottom: 20px;
+}
+
+.respuesta:hover, 
+.respuesta.seleccionada{
+	background-color: cornflowerblue;
+	color: white;
+	cursor: pointer;
+}
